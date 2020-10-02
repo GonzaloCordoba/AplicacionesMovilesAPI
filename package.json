@@ -1,0 +1,23 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Mi primer consumo de una api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GonzaloCordoba/AplicacionesMovilesAPI.git"
+  },
+  "author": "Gonzalo Cordoba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GonzaloCordoba/AplicacionesMovilesAPI/issues"
+  },
+  "homepage": "https://github.com/GonzaloCordoba/AplicacionesMovilesAPI#readme",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
